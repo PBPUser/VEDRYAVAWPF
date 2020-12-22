@@ -19,3 +19,8 @@ C:\vedryava\WpfVedrya\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
 C:\vedryava\WpfVedrya\obj\Debug\WpfVedrya.csproj.CopyComplete
 C:\vedryava\WpfVedrya\bin\Debug\NAudio.dll
 C:\vedryava\WpfVedrya\bin\Debug\NAudio.xml
+C:\vedryava\WpfVedrya\obj\Debug\AboutWindow.g.cs
+C:\vedryava\WpfVedrya\obj\Debug\AboutWindow.baml
+C:\vedryava\WpfVedrya\obj\Debug\DoubleTrackBarControl.g.cs
+C:\vedryava\WpfVedrya\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\vedryava\WpfVedrya\obj\Debug\DoubleTrackBarControl.baml
